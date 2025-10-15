@@ -42,8 +42,8 @@ getgenv().Key = "91d1c2b9a8fe9f26c14b2905"
             ["Fragment"] = 50000,
         },
         ["Auto Chat"] = {
-            ["Enabled"] = false,
-            ["Text"] = "",
+            ["Enabled"] = true,
+            ["Text"] = "ไก่ตันสุดคุ้ม guyitems . store",
         },
         ["Auto Summon Rip Indra"] = true, --- auto buy haki and craft haki legendary 
         ["Select Hop"] = { -- 70% will have it
