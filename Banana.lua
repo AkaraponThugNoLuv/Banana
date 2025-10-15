@@ -16,10 +16,10 @@ getgenv().Key = "91d1c2b9a8fe9f26c14b2905"
                 },
             },
         },
-        ["White Screen"] = false,
+        ["White Screen"] = true,
         ["Lock Fps"] = {
-            ["Enabled"] = false,
-            ["FPS"] = 15,
+            ["Enabled"] = true,
+            ["FPS"] = 10,
         },
         ["Get Items"] = {
             ["Saber"] = true,
